@@ -5,7 +5,8 @@ This project is a QR code generator, a web application that allows users to gene
 1. Description
 2. Installation
 3. Usage
-4. Contributing
+4. Features
+5. Contributing
 
 **Description**
 
@@ -41,6 +42,14 @@ To run the QR Code Generator project locally, follow these steps:
 5. The application will display the generated QR code below the form.
 6. You can save or share the QR code image as needed.
 7. To generate a new QR code, enter a different URL or text in the input field and click the "Generate QR Code" button again.
+
+
+**Features**
+
+1. Simple and intuitive user interface.
+2. Real-time generation of QR codes as the user types.
+3. Automatic resizing of the QR code to fit the container.
+
 
 **Contributing**
 
